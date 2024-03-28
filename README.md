@@ -418,7 +418,7 @@ Ce BTS permet d'acquérir les bases de l'informatique qui pourront par la suite 
   - **Site Galland :** 13 Place du Commandant Galland, 55100 Verdun
   - **Site Vauban :** Place Vauban, 55100 Verdun
 
-## Expérience Proffésionnel
+## Expériences professionnelles
 
 ### 🇫🇷 Alternance - Service de l'énergie opérationnelle - Nancy
 **Date :** 01/10/2022 - 08/09/2023  
